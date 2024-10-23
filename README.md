@@ -25,7 +25,7 @@
   <samp>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Vietnamese</b> 」
+    「 I am a back end web application developer from <b>Vietnamese</b> 」
     <br>
     <br>
   </samp>
