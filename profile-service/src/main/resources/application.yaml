@@ -1,0 +1,32 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: profile-service
+  data:
+    mongodb:
+      port: 27030
+      database: profile
+  webflux:
+    base-path: /profile
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8180/realms/devteria
+
+app:
+  services:
+    product: http://localhost:8081/product
+
+idp:
+  url: http://localhost:8180
+  client-id: devteria_app
+  client-secret: BSGwGB06cqpva5zLpTBdkdmyJVHL2GGV
+  
+vnpay:
+  payment-url: "PAYMENT_URL"
+  tmn-code: "TMN_CODE"
+  hash-secret: "HASH_SECRET"
