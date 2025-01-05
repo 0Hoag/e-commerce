@@ -33,7 +33,7 @@ Developed using a microservices architecture, the project ensures scalability, m
 
 ### Steps  
 1. Clone the repository:  
-git clone https://github.com/0Hoag/BookStore.git <br>
+git clone https://github.com/0Hoag/e-commerce/tree/main <br>
 cd social-platform <br>
 3. Set up the backend: <br>
 cd backend
