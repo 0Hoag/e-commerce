@@ -24,24 +24,26 @@ Developed using a microservices architecture, the project ensures scalability, m
 - **Payment Integration**: VNPay
 - **Cloud Storage**: Cloudinary
 
-## Installation  
+## HotBook Screenshots
+Home Page:
 
-### Prerequisites  
-- Java Development Kit (JDK) 
-- MongoDB installed locally or accessible remotely
-- Docker
+Personal Profile:
 
-### Steps  
-1. Clone the repository:  
-git clone https://github.com/0Hoag/e-commerce/tree/main <br>
-cd social-platform <br>
-3. Set up the backend: <br>
-cd backend
+Search Books:
 
-Install JDK:
-Download and install the Java Development Kit (JDK) from the official Oracle website.
-Set the JAVA_HOME environment variable and verify the installation:
+Search Users:
 
-export JAVA_HOME=/path/to/your/jdk
-export PATH=$JAVA_HOME/bin:$PATH
-java -version
+Notifications:
+
+Chat:
+
+Privacy:
+
+Edit Profile:
+
+Admin Page:
+
+User Listing:
+
+Create Virtual Users Tools:
+
