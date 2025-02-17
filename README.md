@@ -25,7 +25,7 @@ Developed using a microservices architecture, the project ensures scalability, m
 
 ## 📦 Installation
 - **Clone the repository**:
-git clone https://github.com/0Hoag/BookStore.git
+git clone https://github.com/0Hoag/e-commerce.git
 cd hotbook
 - **Backend Setup**:
 ```bash
